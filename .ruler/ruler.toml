@@ -1,0 +1,6 @@
+# Ruler config placeholder.
+# Use Ruler as the single source of truth for reusable agent rules.
+# https://github.com/intellectronica/ruler
+
+[project]
+name = "ai-project-template"

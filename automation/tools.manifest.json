@@ -1,0 +1,9 @@
+{
+  "tools": [
+    { "name": "gh", "purpose": "GitHub automation", "privilege_level": 3, "requires_user_approval": true },
+    { "name": "ruler", "purpose": "Sync AI rules across agent adapters", "privilege_level": 2, "requires_user_approval": true },
+    { "name": "promptfoo", "purpose": "Evaluate prompts and AI workflows", "privilege_level": 2, "requires_user_approval": true },
+    { "name": "semgrep", "purpose": "Static security analysis", "privilege_level": 2, "requires_user_approval": true },
+    { "name": "osv-scanner", "purpose": "Dependency vulnerability scanning", "privilege_level": 2, "requires_user_approval": true }
+  ]
+}
