@@ -17,6 +17,8 @@ This template is not:
 
 ## Quickstart
 
+Full guide: [New Project AI Startup Guide](docs/new-project-ai-startup-guide.md).
+
 1. Create a new repository from this template.
 2. Fill in `ai/project_overview.md`, `ai/current_state.md`, `ai/architecture.md`, and `ai/coding_rules.md`.
 3. Ask your AI agent to read `AGENTS.md` first.
