@@ -17,6 +17,8 @@ This template is not:
 
 ## Quickstart
 
+Fastest agent entry: [START_HERE.md](START_HERE.md).
+
 Full guide: [New Project AI Startup Guide](docs/new-project-ai-startup-guide.md).
 
 1. Create a new repository from this template.
